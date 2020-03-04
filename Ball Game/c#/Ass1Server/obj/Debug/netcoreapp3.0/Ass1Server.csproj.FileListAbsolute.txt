@@ -1,0 +1,11 @@
+e:\Work\c#\Ass1Server\bin\Debug\netcoreapp3.0\Ass1Server.exe
+E:\Work\c#\Ass1Server\bin\Debug\netcoreapp3.0\Ass1Server.deps.json
+E:\Work\c#\Ass1Server\bin\Debug\netcoreapp3.0\Ass1Server.runtimeconfig.json
+E:\Work\c#\Ass1Server\bin\Debug\netcoreapp3.0\Ass1Server.runtimeconfig.dev.json
+e:\Work\c#\Ass1Server\bin\Debug\netcoreapp3.0\Ass1Server.dll
+e:\Work\c#\Ass1Server\bin\Debug\netcoreapp3.0\Ass1Server.pdb
+e:\Work\c#\Ass1Server\obj\Debug\netcoreapp3.0\Ass1Server.csprojAssemblyReference.cache
+e:\Work\c#\Ass1Server\obj\Debug\netcoreapp3.0\Ass1Server.AssemblyInfoInputs.cache
+e:\Work\c#\Ass1Server\obj\Debug\netcoreapp3.0\Ass1Server.AssemblyInfo.cs
+e:\Work\c#\Ass1Server\obj\Debug\netcoreapp3.0\Ass1Server.dll
+e:\Work\c#\Ass1Server\obj\Debug\netcoreapp3.0\Ass1Server.pdb
